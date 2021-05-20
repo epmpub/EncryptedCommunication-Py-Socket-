@@ -16,3 +16,5 @@ Simple Python Script To Communicate Between Server And Clients With Full Encrypt
         2. Set Server's HOST, PORT Inside Client Script.
         3. python3 Server.py
         4. python3 Client.py
+
+Video: https://youtube.com/watch?v=eSPBlI2PTyc
